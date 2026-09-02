@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\formulario_de_inscripcion\\formulario_de_inscripcion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA351CC-0592-4FAC-85A3-8D7A2D932B72}|formulario_de_inscripcion.vbproj|c:\\users\\lenovo\\onedrive\\documentos\\formulario_de_inscripcion\\formulario_de_inscripcion\\formulario_de_inscripcion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7EA351CC-0592-4FAC-85A3-8D7A2D932B72}|formulario_de_inscripcion.vbproj|solutionrelative:formulario_de_inscripcion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formulario_de_inscripcion.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\formulario_de_inscripcion\\formulario_de_inscripcion\\formulario_de_inscripcion.vb",
+              "RelativeDocumentMoniker": "formulario_de_inscripcion.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\formulario_de_inscripcion\\formulario_de_inscripcion\\formulario_de_inscripcion.vb",
+              "RelativeToolTip": "formulario_de_inscripcion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-02T22:27:22.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
